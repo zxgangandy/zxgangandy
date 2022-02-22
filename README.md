@@ -1,4 +1,4 @@
-### Hi  👋 I'm andy zhao
+## Hi  👋 I'm andy zhao
 - I’m currently working on blockchain
 
 
